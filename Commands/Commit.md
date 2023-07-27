@@ -16,6 +16,7 @@ git commit -m "added register functionality"
 Then when viewing the history of a git repository, you can pinpoint where the register functionality was added.
 
 ## Resources 
-- [Git Commit Documenation](https://git-scm.com/docs/git-commit)
- ---
- [Back to home](./README.md)
+- [git commit](./Commit.md)
+
+--- 
+[Back to home](../README.md)
